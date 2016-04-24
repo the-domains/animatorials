@@ -4,11 +4,15 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: written by Garrett (bird)
-datePublished: '2016-04-24T23:38:32.954Z'
-dateModified: '2016-04-24T23:38:12.549Z'
+description: Air-Safety Consultant. I work for the mining industry.
+datePublished: '2016-04-24T23:47:42.948Z'
+dateModified: '2016-04-24T23:47:33.763Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-04-24-written-by-garrett-bird.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,17 +20,13 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-written-by-garrett-bird.md
-published: true
 url: written-by-garrett-bird/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8892a28c-204a-4576-a0e2-be0c6ca89448.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c29953d18c22c221e76bb7bb65d396f0a040df1.jpg)
 
-written by Garrett (bird)
-
-Air-Safety Consultant. I work for the mining industry. 
+Air-Safety Consultant. I work for the mining industry.
 
 With the tragic mining incidents of late, I want to assure the public that we birds working in mine safety do not take our responsibility lightly. Donʼt let these bright and well-plumed feathers fool you - Iʼm not just something pretty to look at. Iʼm a highly trained first responder. 
 
