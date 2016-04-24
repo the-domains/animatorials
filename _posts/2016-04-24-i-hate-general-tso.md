@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: written by Jim (chicken)
-datePublished: '2016-04-24T23:57:32.797Z'
-dateModified: '2016-04-24T23:57:13.304Z'
+description: written by Jim new (chicken)
+datePublished: '2016-04-24T23:58:55.871Z'
+dateModified: '2016-04-24T23:58:47.897Z'
 title: ''
 author:
   - name: ''
@@ -26,7 +26,7 @@ _type: Article
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d0bb71c85f7265f8ded922d4446f55ac31a1cad.png)
 
-written by Jim (chicken)
+written by Jim new (chicken)
 
 Quick, think of a chicken dish in a Chinese restaurant. General Tsoʼs Chicken. Did I guess right? General Tsoʼs is by far the most popular chicken dish served in Asian restaurants. And why shouldnʼt it be? Itʼs named after a great military hero.
 
