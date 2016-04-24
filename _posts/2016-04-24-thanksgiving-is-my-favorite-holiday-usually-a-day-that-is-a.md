@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Thanksgiving is my favorite holiday. Usually a day that is associated with the wholesale slaughter of your species would fall low on someoneʼs list of favorite holidays. But not mine. I choose to see the glass as half full. Iʼm an optimist. Thanksgiving forces turkey rafters to spend quality time together. Knowing any member of your family might not be there in the morning, having been grabbed before dawn, their head sliced off with the blade of a rusty axe, encourages you to cherish each moment. It brings urgency to say what we have to say to the ones we love. '
-datePublished: '2016-04-24T23:41:18.670Z'
-dateModified: '2016-04-24T23:40:31.562Z'
+datePublished: '2016-04-24T23:46:41.245Z'
+dateModified: '2016-04-24T23:46:40.831Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-24-thanksgiving-is-my-favorite-holiday-usually-a-day-that-is-a.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-thanksgiving-is-my-favorite-holiday-usually-a-day-that-is-a.md
-published: true
 url: thanksgiving-is-my-favorite-holiday-usually-a-day-that-is-a/index.html
 _type: Article
 
