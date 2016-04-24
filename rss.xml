@@ -4,8 +4,15 @@
         <description><![CDATA[Animaltorials - Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 23:47:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 23:48:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I Hate General Tso]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d0bb71c85f7265f8ded922d4446f55ac31a1cad.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/animatorials/i-hate-general-tso/index.html</link>
+            <guid isPermaLink="false">a932004d-a34e-4b31-98cb-07cc6be9b5fd</guid>
+            <pubDate>Sun, 24 Apr 2016 23:48:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c29953d18c22c221e76bb7bb65d396f0a040df1.jpg" alt="" title="" />]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/animatorials/thanksgiving-is-my-favorite-holiday-usually-a-day-that-is-a/index.html</link>
             <guid isPermaLink="false">d730a61b-2854-42ed-8ada-b80d8e62bfb0</guid>
             <pubDate>Sun, 24 Apr 2016 23:46:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I Hate General Tso]]></title>
-            <description><![CDATA[<p>written by Jimmy (chicken)</p>]]></description>
-            <link>https://thegrid.ai/animatorials/i-hate-general-tso/index.html</link>
-            <guid isPermaLink="false">a932004d-a34e-4b31-98cb-07cc6be9b5fd</guid>
-            <pubDate>Sun, 24 Apr 2016 23:45:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
