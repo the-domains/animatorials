@@ -5,10 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Jimmy (chicken)
-datePublished: '2016-04-24T23:45:08.905Z'
-dateModified: '2016-04-24T23:44:59.749Z'
+datePublished: '2016-04-24T23:48:22.686Z'
+dateModified: '2016-04-24T23:48:03.925Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-04-24-i-hate-general-tso.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,13 +20,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-i-hate-general-tso.md
-published: true
 url: i-hate-general-tso/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4db7e93b-488a-4e6c-acd5-a5f7995ad04b.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d0bb71c85f7265f8ded922d4446f55ac31a1cad.png)
 
 written by Jimmy (chicken)
 
