@@ -1,0 +1,28 @@
+name: Animatorials
+favicon: null
+layout_spectrum: 0.3104615546762943
+typography_spectrum: 0.6807441806886345
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8340394378174096
+  lightness: 0.7509057088755071
+  saturation: 0.9612908123526722
+  rhythmicContrast: 0.23737342609092593
+purpose: []
