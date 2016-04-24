@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Thanksgiving is my favorite holiday. Usually a day that is associated with the wholesale slaughter of your species would fall low on someoneʼs list of favorite holidays. But not mine. I choose to see the glass as half full. Iʼm an optimist. Thanksgiving forces turkey rafters to spend quality time together. Knowing any member of your family might not be there in the morning, having been grabbed before dawn, their head sliced off with the blade of a rusty axe, encourages you to cherish each moment. It brings urgency to say what we have to say to the ones we love. '
-datePublished: '2016-04-24T23:40:27.490Z'
-dateModified: '2016-04-24T23:39:59.045Z'
+datePublished: '2016-04-24T23:41:18.670Z'
+dateModified: '2016-04-24T23:40:31.562Z'
 title: ''
 author: []
 authors: []
