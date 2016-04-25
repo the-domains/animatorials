@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Trouble (dog)
-datePublished: '2016-04-25T04:06:31.854Z'
-dateModified: '2016-04-25T04:05:28.122Z'
+datePublished: '2016-04-25T04:06:55.510Z'
+dateModified: '2016-04-25T04:06:50.504Z'
 title: ''
 author:
   - name: ''
@@ -24,7 +24,7 @@ url: leona-left-me-dollar12-million/index.html
 _type: Article
 
 ---
-Leona Left Me 12 Million 
+# Leona Left Me 12 Million 
 
 written by Trouble (dog)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8c0a4acb11fdfd77a1dc11282eb48c14a2f4156.jpg)
