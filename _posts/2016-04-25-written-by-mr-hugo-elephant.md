@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Mr. Hugo (elephant)
-datePublished: '2016-04-25T00:48:15.057Z'
-dateModified: '2016-04-25T00:47:54.048Z'
+datePublished: '2016-04-25T03:06:48.746Z'
+dateModified: '2016-04-25T03:06:11.450Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-25-written-by-mr-hugo-elephant.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,13 +18,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-written-by-mr-hugo-elephant.md
-published: true
 url: written-by-mr-hugo-elephant/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de57d072-b3f1-4a6f-ae4f-2a5400917ea3.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8f4bd5b-cc8f-4162-8858-aab84d4a29a9.jpg)
 
 written by Mr. Hugo (elephant)
 
