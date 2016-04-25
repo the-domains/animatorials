@@ -4,8 +4,15 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 03:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 03:27:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I'm Quitting the Magic Act]]></title>
+            <description><![CDATA[<article><h1>I'm Quitting the Magic Act</h1><p>written by Flankins (dove)</p></article>]]></description>
+            <link>https://thegrid.ai/animatorials/im-quitting-the-magic-act/index.html</link>
+            <guid isPermaLink="false">829f8c5c-0402-4aa7-b455-c5e3be6e3cee</guid>
+            <pubDate>Mon, 25 Apr 2016 03:26:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nature's Miracle is Not Really a Miracle]]></title>
             <description><![CDATA[<p>written by Princess (cat)</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/animatorials/want-to-buy-some-no-hunting-signs/index.html</link>
             <guid isPermaLink="false">cf831e23-b4d7-408a-8353-c36eefcb8f43</guid>
             <pubDate>Mon, 25 Apr 2016 03:04:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leona Left Me $12 Million]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5443179-976d-4e75-a6e6-54b928558912.jpg">]]></description>
-            <link>https://thegrid.ai/animatorials/leona-left-me-dollar12-million/index.html</link>
-            <guid isPermaLink="false">02bd5154-5314-4522-8dd1-0cab3bdecc7a</guid>
-            <pubDate>Mon, 25 Apr 2016 02:55:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
