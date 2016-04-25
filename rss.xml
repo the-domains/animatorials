@@ -4,8 +4,15 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 01:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 01:16:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I am an Atheist]]></title>
+            <description><![CDATA[<p>written by Elton (critter)</p>]]></description>
+            <link>https://thegrid.ai/animatorials/i-am-an-atheist/index.html</link>
+            <guid isPermaLink="false">fea4fafc-135e-4dcb-8955-0d3c579b04d4</guid>
+            <pubDate>Mon, 25 Apr 2016 01:16:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Leona Left Me $12 Million]]></title>
             <description><![CDATA[<p>written by Trouble (dog)</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/animatorials/iphone-finally-a-cell-phone-animals-can-use/index.html</link>
             <guid isPermaLink="false">2c1bb953-4088-4e61-abf8-20c6a6e2c963</guid>
             <pubDate>Mon, 25 Apr 2016 00:56:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dear Ranch Owner]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/947bf5d5bc8eb3219195922535e0e21a89af014f.png" alt="" title="">]]></description>
-            <link>https://thegrid.ai/animatorials/10d0eb26-f134-490d-b34d-24447caf3b11/index.html</link>
-            <guid isPermaLink="false">10d0eb26-f134-490d-b34d-24447caf3b11</guid>
-            <pubDate>Mon, 25 Apr 2016 00:55:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
