@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Princess (cat)
-datePublished: '2016-04-25T00:30:52.467Z'
-dateModified: '2016-04-25T00:30:46.540Z'
+datePublished: '2016-04-25T00:46:53.260Z'
+dateModified: '2016-04-25T00:46:47.901Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-25-written-by-princess-cat.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,12 +18,12 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-written-by-princess-cat.md
-published: true
 url: written-by-princess-cat/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0e67ce6-4292-4daf-b289-919b6851c430.png)
+
 written by Princess (cat)
 
 Nature's Miracle removes pet odors from carpets and upholstery. Itʼs a good product but letʼs be honest, what it does - not really a miracle. 
