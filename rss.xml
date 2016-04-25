@@ -4,8 +4,15 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 04:32:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 04:36:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Thanks for Thanksgiving]]></title>
+            <description><![CDATA[<article><h1>Thanks for Thanksgiving</h1><p>written by Simon (turkey)</p></article>]]></description>
+            <link>https://thegrid.ai/animatorials/thanksgiving-is-my-favorite-holiday-usually-a-day-that-is-a/index.html</link>
+            <guid isPermaLink="false">d730a61b-2854-42ed-8ada-b80d8e62bfb0</guid>
+            <pubDate>Mon, 25 Apr 2016 04:35:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My Job is to Save Lives]]></title>
             <description><![CDATA[<article><h1>My Job is to Save Lives</h1><p>written by Garrett (bird)</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/animatorials/written-by-mr-hugo-elephant/index.html</link>
             <guid isPermaLink="false">99b79f46-ea93-47bb-98c8-e98885415302</guid>
             <pubDate>Mon, 25 Apr 2016 04:08:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leona Left Me $12 Million]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8c0a4acb11fdfd77a1dc11282eb48c14a2f4156.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/animatorials/leona-left-me-dollar12-million/index.html</link>
-            <guid isPermaLink="false">02bd5154-5314-4522-8dd1-0cab3bdecc7a</guid>
-            <pubDate>Mon, 25 Apr 2016 04:06:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
