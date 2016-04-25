@@ -5,10 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Slitterman (fish)
-datePublished: '2016-04-25T01:01:02.669Z'
-dateModified: '2016-04-25T01:00:59.283Z'
+datePublished: '2016-04-25T01:03:18.465Z'
+dateModified: '2016-04-25T01:03:15.362Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-04-25-id-like-to-be-fish-of-the-day.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +20,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-id-like-to-be-fish-of-the-day.md
-published: true
 url: id-like-to-be-fish-of-the-day/index.html
 _type: Article
 
