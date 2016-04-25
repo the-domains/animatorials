@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Fred Kipster (mouse)
-datePublished: '2016-04-25T01:27:16.921Z'
-dateModified: '2016-04-25T01:25:42.146Z'
+datePublished: '2016-04-25T03:54:59.536Z'
+dateModified: '2016-04-25T03:54:08.899Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-written-by-fred-kipster-mouse.md
@@ -22,7 +22,7 @@ url: written-by-fred-kipster-mouse/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56079df6-2932-4b91-af1a-40a74dcdbb51.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b882ac91e89744a0924f47b4418131fb13cd619.jpg)
 
 written by Fred Kipster (mouse)
 
