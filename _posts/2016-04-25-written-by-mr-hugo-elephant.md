@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Mr. Hugo (elephant)
-datePublished: '2016-04-25T03:06:48.746Z'
-dateModified: '2016-04-25T03:06:11.450Z'
+datePublished: '2016-04-25T03:20:43.913Z'
+dateModified: '2016-04-25T03:20:29.142Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-written-by-mr-hugo-elephant.md
@@ -22,7 +22,7 @@ url: written-by-mr-hugo-elephant/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8f4bd5b-cc8f-4162-8858-aab84d4a29a9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/41cf53437f57a1e2a622a989bd3ee67a34e6cca7.jpg)
 
 written by Mr. Hugo (elephant)
 
