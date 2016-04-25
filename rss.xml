@@ -4,8 +4,15 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 03:46:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 03:48:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How about Walrus Week?]]></title>
+            <description><![CDATA[<article><h1>How about Walrus Week?</h1><p>written by Wally (walrus)</p></article>]]></description>
+            <link>https://thegrid.ai/animatorials/how-about-walrus-week/index.html</link>
+            <guid isPermaLink="false">043efff7-c183-479b-9921-24937297858e</guid>
+            <pubDate>Mon, 25 Apr 2016 03:48:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I'd l]]></title>
             <description><![CDATA[<p>written by Slitterman (fish)</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/animatorials/papa-dont-preach-is-here/index.html</link>
             <guid isPermaLink="false">39686dfa-0b5a-4762-9d16-f207b3c63b2b</guid>
             <pubDate>Mon, 25 Apr 2016 03:13:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Whiska-ize Me]]></title>
-            <description><![CDATA[<p>written by Lucky (cat)</p>]]></description>
-            <link>https://thegrid.ai/animatorials/whiska-ize-me/index.html</link>
-            <guid isPermaLink="false">284aa723-951e-486f-a53f-70fb1976be58</guid>
-            <pubDate>Mon, 25 Apr 2016 03:12:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
