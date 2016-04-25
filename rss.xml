@@ -4,8 +4,15 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 01:30:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 01:34:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Papa Don't Preach Is Here]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db4ae440c45922198b940337ca54863410944ca2.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/animatorials/papa-dont-preach-is-here/index.html</link>
+            <guid isPermaLink="false">39686dfa-0b5a-4762-9d16-f207b3c63b2b</guid>
+            <pubDate>Mon, 25 Apr 2016 01:32:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I'd Like To Be Fish Of The Day]]></title>
             <description><![CDATA[<p>written by Slitterman (fish)</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/animatorials/skunks-have-feelings-too/index.html</link>
             <guid isPermaLink="false">be455b18-c12a-4bfc-81ca-1f9938b011c2</guid>
             <pubDate>Mon, 25 Apr 2016 01:11:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Consider This My Two Week Notice]]></title>
-            <description><![CDATA[<p>written by Alberto (eagle)</p>]]></description>
-            <link>https://thegrid.ai/animatorials/consider-this-my-two-week-notice/index.html</link>
-            <guid isPermaLink="false">83e6c8b9-b83e-41b2-a94f-e9b28a219c1f</guid>
-            <pubDate>Mon, 25 Apr 2016 00:59:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
