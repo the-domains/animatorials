@@ -5,10 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Donald Whitetail (deer)
-datePublished: '2016-04-25T00:09:24.866Z'
-dateModified: '2016-04-25T00:09:20.099Z'
+datePublished: '2016-04-25T00:38:51.986Z'
+dateModified: '2016-04-25T00:22:11.284Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-04-25-want-to-buy-some-no-hunting-signs.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,13 +20,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-want-to-buy-some-no-hunting-signs.md
-published: true
 url: want-to-buy-some-no-hunting-signs/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65eb21d4-1639-42c5-a2fa-67884edf2cd3.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fbbec1c3160a4d7697d74134fa967ea4b72be1a8.png)
 
 written by Donald Whitetail (deer)
 
