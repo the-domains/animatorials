@@ -4,8 +4,15 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 00:56:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 00:56:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[iPhone: Finally a Cell Phone Animals Can Use]]></title>
+            <description><![CDATA[<p>written by Donald Whitetail (deer)</p>]]></description>
+            <link>https://thegrid.ai/animatorials/iphone-finally-a-cell-phone-animals-can-use/index.html</link>
+            <guid isPermaLink="false">2c1bb953-4088-4e61-abf8-20c6a6e2c963</guid>
+            <pubDate>Mon, 25 Apr 2016 00:56:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dear Ranch Owner]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/947bf5d5bc8eb3219195922535e0e21a89af014f.png" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/animatorials/want-to-buy-some-no-hunting-signs/index.html</link>
             <guid isPermaLink="false">cf831e23-b4d7-408a-8353-c36eefcb8f43</guid>
             <pubDate>Mon, 25 Apr 2016 00:38:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>written by Chickers (penguin)</p>]]></description>
-            <link>https://thegrid.ai/animatorials/written-by-chickers-penguin/index.html</link>
-            <guid isPermaLink="false">9c7ed8b1-5cbe-418f-9f41-261e6051ad49</guid>
-            <pubDate>Mon, 25 Apr 2016 00:31:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
