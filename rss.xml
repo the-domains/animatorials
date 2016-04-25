@@ -4,8 +4,15 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 01:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 01:16:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Leona Left Me $12 Million]]></title>
+            <description><![CDATA[<p>written by Trouble (dog)</p>]]></description>
+            <link>https://thegrid.ai/animatorials/leona-left-me-dollar12-million/index.html</link>
+            <guid isPermaLink="false">02bd5154-5314-4522-8dd1-0cab3bdecc7a</guid>
+            <pubDate>Mon, 25 Apr 2016 01:15:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Obama's Race Speech: This Zebra's Thoughts]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d25acd58-2952-49d8-84b2-7e3f45e59554.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/animatorials/10d0eb26-f134-490d-b34d-24447caf3b11/index.html</link>
             <guid isPermaLink="false">10d0eb26-f134-490d-b34d-24447caf3b11</guid>
             <pubDate>Mon, 25 Apr 2016 00:55:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dairy of a Young Sea Monkey]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fc8e9e8-872f-434f-8c67-3f635788c32e.png">]]></description>
-            <link>https://thegrid.ai/animatorials/i-have-decided-to-keep-this-journal-of-my-day-to-day-activit/index.html</link>
-            <guid isPermaLink="false">58e6744f-fb60-431b-a759-db4ea0af8bcd</guid>
-            <pubDate>Mon, 25 Apr 2016 00:53:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
