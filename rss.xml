@@ -4,21 +4,28 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 03:59:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 04:01:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Did I Just Hear You Call Me Lazy?]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8add59d3-0cb9-439a-9b8b-dae2059ea750.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/animatorials/did-i-just-hear-you-call-me-lazy/index.html</link>
-            <guid isPermaLink="false">62fe7a6b-ce9c-4817-a6df-c176fa426d15</guid>
-            <pubDate>Mon, 25 Apr 2016 03:59:24 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>written by Mr. Hugo (elephant)</p>]]></description>
+            <link>https://thegrid.ai/animatorials/written-by-mr-hugo-elephant/index.html</link>
+            <guid isPermaLink="false">99b79f46-ea93-47bb-98c8-e98885415302</guid>
+            <pubDate>Mon, 25 Apr 2016 04:01:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I Do Not Like Jazz]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/edb66ef4-5d82-4c12-b9c0-15d74012abec.png" alt="" title="">]]></description>
             <link>https://thegrid.ai/animatorials/i-do-not-like-jazz/index.html</link>
             <guid isPermaLink="false">83f41d09-1f6a-4e81-b6c5-d1e047b16489</guid>
-            <pubDate>Mon, 25 Apr 2016 03:57:15 GMT</pubDate>
+            <pubDate>Mon, 25 Apr 2016 03:59:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Did I Just Hear You Call Me Lazy?]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8add59d3-0cb9-439a-9b8b-dae2059ea750.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/animatorials/did-i-just-hear-you-call-me-lazy/index.html</link>
+            <guid isPermaLink="false">62fe7a6b-ce9c-4817-a6df-c176fa426d15</guid>
+            <pubDate>Mon, 25 Apr 2016 03:59:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Whiska-ize Me]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/animatorials/how-about-walrus-week/index.html</link>
             <guid isPermaLink="false">043efff7-c183-479b-9921-24937297858e</guid>
             <pubDate>Mon, 25 Apr 2016 03:48:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I'd l]]></title>
-            <description><![CDATA[<p>written by Slitterman (fish)</p>]]></description>
-            <link>https://thegrid.ai/animatorials/id-like-to-be-fish-of-the-day/index.html</link>
-            <guid isPermaLink="false">14d4fb3a-be8b-4f89-a365-f6d312c75012</guid>
-            <pubDate>Mon, 25 Apr 2016 03:45:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
