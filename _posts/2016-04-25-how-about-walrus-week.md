@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-25T00:16:44.985Z'
-dateModified: '2016-04-25T00:16:35.575Z'
+datePublished: '2016-04-25T00:21:34.909Z'
+dateModified: '2016-04-25T00:16:51.296Z'
 title: How about Walrus Week?
 author: []
+sourcePath: _posts/2016-04-25-how-about-walrus-week.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-how-about-walrus-week.md
-published: true
 url: how-about-walrus-week/index.html
 _type: Article
 
