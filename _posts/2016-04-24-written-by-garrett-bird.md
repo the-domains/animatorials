@@ -4,10 +4,10 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: written by Garrett (bird)
-datePublished: '2016-04-24T23:54:31.508Z'
-dateModified: '2016-04-24T23:53:58.178Z'
-title: ''
+description: ''
+datePublished: '2016-04-25T03:37:22.058Z'
+dateModified: '2016-04-25T03:36:59.712Z'
+title: My Job is to Save Lives
 author:
   - name: ''
     url: ''
@@ -26,11 +26,12 @@ _type: Article
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c29953d18c22c221e76bb7bb65d396f0a040df1.jpg)
 
+# My Job is to Save Lives
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0db45ec67bdfc6c0b841442246deed33/passthrough.jpg?height=128&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F8c29953d18c22c221e76bb7bb65d396f0a040df1.jpg&width=167)
+
 written by Garrett (bird)
 
-I'm an Air-Safety Consultant. I work for the mining industry.
-
-With the tragic mining incidents of late, I want to assure the public that we birds working in mine safety do not take our responsibility lightly. Donʼt let these bright and well-plumed feathers fool you - Iʼm not just something pretty to look at. Iʼm a highly trained first responder. 
+I'm an Air-Safety Consultant. I work for the mining industry. With the tragic mining incidents of late, I want to assure the public that we birds working in mine safety do not take our responsibility lightly. Donʼt let these bright and well-plumed feathers fool you - Iʼm not just something pretty to look at. Iʼm a highly trained first responder. 
 
 Itʼs my job to alert authorities if thereʼs a build up of toxic gas anywhere in the shaft. In many cases my expert judgment is the only thing that stands between you and the cold hands of death. I can tell the difference between getting tired from too many sunflower seeds and getting tired from methane gas. Can you? No offense, but I doubt it. Not unless youʼve been through the extensive training programs that I have. Nor can you probably differentiate between the benign flatulence of a miner and the deadly buildup of carbon monoxide. Again, I can. 
 
