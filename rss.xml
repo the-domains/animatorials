@@ -4,8 +4,22 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 00:56:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 00:59:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Consider This My Two Week Notice]]></title>
+            <description><![CDATA[<p>written by Alberto (eagle)</p>]]></description>
+            <link>https://thegrid.ai/animatorials/consider-this-my-two-week-notice/index.html</link>
+            <guid isPermaLink="false">83e6c8b9-b83e-41b2-a94f-e9b28a219c1f</guid>
+            <pubDate>Mon, 25 Apr 2016 00:59:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bulimia - One Owl's Battle]]></title>
+            <description><![CDATA[<p>written by Douglas (owl)</p>]]></description>
+            <link>https://thegrid.ai/animatorials/bulimia-one-owls-battle/index.html</link>
+            <guid isPermaLink="false">20e7be7f-4a3d-4783-b070-4a929aa29633</guid>
+            <pubDate>Mon, 25 Apr 2016 00:58:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[iPhone: Finally a Cell Phone Animals Can Use]]></title>
             <description><![CDATA[<p>written by Donald Whitetail (deer)</p>]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/animatorials/written-by-princess-cat/index.html</link>
             <guid isPermaLink="false">184751e4-0f2f-4950-986d-7a0a1375fc64</guid>
             <pubDate>Mon, 25 Apr 2016 00:46:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I'm Quitting the Magic Act]]></title>
-            <description><![CDATA[<article><h1>I'm Quitting the Magic Act</h1><p>written by Flankins (dove)</p></article>]]></description>
-            <link>https://thegrid.ai/animatorials/im-quitting-the-magic-act/index.html</link>
-            <guid isPermaLink="false">829f8c5c-0402-4aa7-b455-c5e3be6e3cee</guid>
-            <pubDate>Mon, 25 Apr 2016 00:44:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Want To Buy Some No Hunting Signs?]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fbbec1c3160a4d7697d74134fa967ea4b72be1a8.png" alt="" title="">]]></description>
-            <link>https://thegrid.ai/animatorials/want-to-buy-some-no-hunting-signs/index.html</link>
-            <guid isPermaLink="false">cf831e23-b4d7-408a-8353-c36eefcb8f43</guid>
-            <pubDate>Mon, 25 Apr 2016 00:38:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
