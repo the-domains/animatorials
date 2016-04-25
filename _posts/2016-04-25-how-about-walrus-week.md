@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Wally (walrus)
-datePublished: '2016-04-25T00:51:15.784Z'
-dateModified: '2016-04-25T00:38:42.308Z'
+datePublished: '2016-04-25T03:48:10.259Z'
+dateModified: '2016-04-25T03:47:47.576Z'
 title: How about Walrus Week?
 author:
   - name: ''
@@ -25,7 +25,7 @@ _type: Article
 
 ---
 # How about Walrus Week?
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a790836aeffbf65a90135efde9c86773a80c3e3.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fad973cd-8800-4bff-8138-22f536cd50b6.jpg)
 
 written by Wally (walrus)
 
