@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "written by Papa don't Preach (horse)"
-datePublished: '2016-04-25T03:13:07.911Z'
-dateModified: '2016-04-25T03:08:16.214Z'
+description: "written by Papa Don't Preach (horse)"
+datePublished: '2016-04-25T03:49:15.365Z'
+dateModified: '2016-04-25T03:49:10.165Z'
 title: ''
 author:
   - name: ''
@@ -24,9 +24,10 @@ url: papa-dont-preach-is-here/index.html
 _type: Article
 
 ---
+# Papa Don't Preach is Here
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c2bd9e0-527d-495e-827a-e2f31a7b26a5.jpg)
 
-written by Papa don't Preach (horse)
+written by Papa Don't Preach (horse)
 
 Hello, ladies. How are you all today? 
 
