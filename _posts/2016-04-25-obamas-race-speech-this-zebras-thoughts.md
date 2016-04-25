@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-04-25T00:51:57.624Z'
-dateModified: '2016-04-25T00:51:55.709Z'
+description: written by Marc (Zebra)
+datePublished: '2016-04-25T01:13:03.867Z'
+dateModified: '2016-04-25T01:12:32.711Z'
 title: ''
 author:
   - name: ''
@@ -24,7 +24,7 @@ url: obamas-race-speech-this-zebras-thoughts/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5cb7ce2eb7a899d590447d6a5803eb47fc4778c.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d25acd58-2952-49d8-84b2-7e3f45e59554.jpg)
 
 written by Marc (Zebra)
 
