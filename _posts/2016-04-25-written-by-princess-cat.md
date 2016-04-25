@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: written by Princess (cat)
-datePublished: '2016-04-25T03:24:23.777Z'
-dateModified: '2016-04-25T03:24:04.856Z'
+description: 'written by Princess (cat) '
+datePublished: '2016-04-25T05:09:55.144Z'
+dateModified: '2016-04-25T05:09:42.678Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-25-written-by-princess-cat.md
 published: true
 authors: []
@@ -22,7 +24,7 @@ url: written-by-princess-cat/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2027d08b-8b0b-4aff-a5c3-744a412a0158.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61242f44-649c-402d-bd93-de63fbaa8e5c.jpg)
 
 written by Princess (cat)
 
