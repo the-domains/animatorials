@@ -4,8 +4,15 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 01:36:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 01:55:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Consider This My Two Week Notice]]></title>
+            <description><![CDATA[<p>written by Alberto (eagle)</p>]]></description>
+            <link>https://thegrid.ai/animatorials/consider-this-my-two-week-notice/index.html</link>
+            <guid isPermaLink="false">83e6c8b9-b83e-41b2-a94f-e9b28a219c1f</guid>
+            <pubDate>Mon, 25 Apr 2016 01:55:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bulimia - One Owl's Battle]]></title>
             <description><![CDATA[<p>written by Douglas (owl)</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/animatorials/did-i-just-hear-you-call-me-lazy/index.html</link>
             <guid isPermaLink="false">62fe7a6b-ce9c-4817-a6df-c176fa426d15</guid>
             <pubDate>Mon, 25 Apr 2016 01:19:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Obama's Race Speech: This Zebra's Thoughts]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d25acd58-2952-49d8-84b2-7e3f45e59554.jpg">]]></description>
-            <link>https://thegrid.ai/animatorials/obamas-race-speech-this-zebras-thoughts/index.html</link>
-            <guid isPermaLink="false">b7434f82-9522-42a2-91a5-019c58a93cc4</guid>
-            <pubDate>Mon, 25 Apr 2016 01:13:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
