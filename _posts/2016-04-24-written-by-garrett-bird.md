@@ -4,10 +4,10 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: written by Garrett (bird)
-datePublished: '2016-04-25T04:32:41.364Z'
-dateModified: '2016-04-25T04:32:22.614Z'
-title: My Job is to Save Lives
+description: written by Garrett (bird)written by Garrett (bird)
+datePublished: '2016-04-25T04:41:50.565Z'
+dateModified: '2016-04-25T04:40:58.662Z'
+title: ''
 author:
   - name: ''
     url: ''
@@ -24,10 +24,11 @@ url: written-by-garrett-bird/index.html
 _type: Article
 
 ---
-# My Job is to Save Lives
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7b0c83613454ef7aa28bf23a65c9ee5cb8f20f4.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d25ac9e5-5503-4dce-958f-23d0659ff44a.jpg)
 
-written by Garrett (bird)
+# My Job is to Save Lives
+
+written by Garrett (bird)written by Garrett (bird)
 
 I'm an Air-Safety Consultant. I work for the mining industry. With the tragic mining incidents of late, I want to assure the public that we birds working in mine safety do not take our responsibility lightly. Donʼt let these bright and well-plumed feathers fool you - Iʼm not just something pretty to look at. Iʼm a highly trained first responder. 
 
