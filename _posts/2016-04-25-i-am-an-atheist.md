@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Elton (critter)
-datePublished: '2016-04-25T01:16:57.833Z'
-dateModified: '2016-04-25T01:16:40.948Z'
+datePublished: '2016-04-25T01:22:35.073Z'
+dateModified: '2016-04-25T01:17:04.351Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-25-i-am-an-atheist.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-i-am-an-atheist.md
-published: true
 url: i-am-an-atheist/index.html
 _type: Article
 
