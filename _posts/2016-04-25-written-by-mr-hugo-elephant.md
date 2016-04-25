@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Mr. Hugo (elephant)
-datePublished: '2016-04-25T04:01:33.821Z'
-dateModified: '2016-04-25T03:20:51.895Z'
+datePublished: '2016-04-25T04:08:23.721Z'
+dateModified: '2016-04-25T04:08:19.155Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-written-by-mr-hugo-elephant.md
@@ -22,6 +22,7 @@ url: written-by-mr-hugo-elephant/index.html
 _type: Article
 
 ---
+# So You Want to Join the Circus, Huh?
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/41cf53437f57a1e2a622a989bd3ee67a34e6cca7.jpg)
 
 written by Mr. Hugo (elephant)
