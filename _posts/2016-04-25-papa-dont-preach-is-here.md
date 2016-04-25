@@ -4,13 +4,15 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-04-25T00:52:36.351Z'
-dateModified: '2016-04-25T00:52:27.777Z'
+description: "written by Papa don't Preach (horse)"
+datePublished: '2016-04-25T01:32:12.783Z'
+dateModified: '2016-04-25T01:31:56.653Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-25-papa-dont-preach-is-here.md
+published: true
 authors: []
 publisher:
   name: null
@@ -18,13 +20,12 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-papa-dont-preach-is-here.md
-published: true
 url: papa-dont-preach-is-here/index.html
 _type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/db4ae440c45922198b940337ca54863410944ca2.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c2bd9e0-527d-495e-827a-e2f31a7b26a5.jpg)
 
 written by Papa don't Preach (horse)
 
