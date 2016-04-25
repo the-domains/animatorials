@@ -5,10 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Alberto (eagle)
-datePublished: '2016-04-25T00:59:24.906Z'
-dateModified: '2016-04-25T00:59:13.396Z'
+datePublished: '2016-04-25T01:55:07.447Z'
+dateModified: '2016-04-25T01:54:59.417Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-04-25-consider-this-my-two-week-notice.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,13 +20,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-consider-this-my-two-week-notice.md
-published: true
 url: consider-this-my-two-week-notice/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f1bcfb2-97d2-4c5a-9a0e-8b9902623076.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4162df04-ac05-4222-8a32-9a46eb89704a.jpg)
 
 written by Alberto (eagle)
 
