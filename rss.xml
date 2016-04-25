@@ -4,8 +4,15 @@
         <description><![CDATA[Animaltorials - Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 00:31:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 00:35:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I have decided to keep this journal of my day-to-day activities, perhaps for future generations (over 300 eggs erupted from Mother's abdomen just this morning!) to enjoy; or perhaps just to keep from going crazy in this glass and water hell that is my home. </p>]]></description>
+            <link>https://thegrid.ai/animatorials/i-have-decided-to-keep-this-journal-of-my-day-to-day-activit/index.html</link>
+            <guid isPermaLink="false">58e6744f-fb60-431b-a759-db4ea0af8bcd</guid>
+            <pubDate>Mon, 25 Apr 2016 00:34:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>written by Chickers (penguin)</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/animatorials/thanksgiving-is-my-favorite-holiday-usually-a-day-that-is-a/index.html</link>
             <guid isPermaLink="false">d730a61b-2854-42ed-8ada-b80d8e62bfb0</guid>
             <pubDate>Mon, 25 Apr 2016 00:00:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My Job is to Save Lives]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c29953d18c22c221e76bb7bb65d396f0a040df1.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/animatorials/written-by-garrett-bird/index.html</link>
-            <guid isPermaLink="false">13a49488-8311-4f9f-a877-ece33067368c</guid>
-            <pubDate>Sun, 24 Apr 2016 23:54:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
