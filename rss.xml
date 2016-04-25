@@ -4,8 +4,15 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 01:03:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 01:07:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Skunks Have Feelings Too]]></title>
+            <description><![CDATA[<p>written by Leanord (skunk)</p>]]></description>
+            <link>https://thegrid.ai/animatorials/skunks-have-feelings-too/index.html</link>
+            <guid isPermaLink="false">be455b18-c12a-4bfc-81ca-1f9938b011c2</guid>
+            <pubDate>Mon, 25 Apr 2016 01:06:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I'd Like To Be Fish Of The Day]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/efb73c27-3e13-42eb-b8d2-653fe68e4ac8.jpg" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/animatorials/obamas-race-speech-this-zebras-thoughts/index.html</link>
             <guid isPermaLink="false">b7434f82-9522-42a2-91a5-019c58a93cc4</guid>
             <pubDate>Mon, 25 Apr 2016 00:51:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How about Walrus Week?]]></title>
-            <description><![CDATA[<article><h1>How about Walrus Week?</h1><p>written by Wally (walrus)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a790836aeffbf65a90135efde9c86773a80c3e3.png"></article>]]></description>
-            <link>https://thegrid.ai/animatorials/how-about-walrus-week/index.html</link>
-            <guid isPermaLink="false">043efff7-c183-479b-9921-24937297858e</guid>
-            <pubDate>Mon, 25 Apr 2016 00:51:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
