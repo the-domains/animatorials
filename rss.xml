@@ -4,8 +4,15 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 03:52:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 03:53:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I am an Atheist]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8fcc3f0-2f6a-461b-bf13-8ad27ef716eb.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/animatorials/i-am-an-atheist/index.html</link>
+            <guid isPermaLink="false">fea4fafc-135e-4dcb-8955-0d3c579b04d4</guid>
+            <pubDate>Mon, 25 Apr 2016 03:53:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dear Ranch Owner]]></title>
             <description><![CDATA[<article><h1>Dear Ranch Owner</h1><p>written by Sam (bull)</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/animatorials/iphone-finally-a-cell-phone-animals-can-use/index.html</link>
             <guid isPermaLink="false">2c1bb953-4088-4e61-abf8-20c6a6e2c963</guid>
             <pubDate>Mon, 25 Apr 2016 03:21:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>written by Mr. Hugo (elephant)</p>]]></description>
-            <link>https://thegrid.ai/animatorials/written-by-mr-hugo-elephant/index.html</link>
-            <guid isPermaLink="false">99b79f46-ea93-47bb-98c8-e98885415302</guid>
-            <pubDate>Mon, 25 Apr 2016 03:20:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
