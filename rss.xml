@@ -4,8 +4,15 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 05:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 05:10:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nature's Miracle - Not Really a Miracle]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/61242f44-649c-402d-bd93-de63fbaa8e5c.jpg" alt="" title="" />]]></description>
+            <link>https://thegrid.ai/animatorials/written-by-princess-cat/index.html</link>
+            <guid isPermaLink="false">184751e4-0f2f-4950-986d-7a0a1375fc64</guid>
+            <pubDate>Mon, 25 Apr 2016 05:09:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I Just Couldn't Take The Nagging]]></title>
             <description><![CDATA[<article><h1>I Just Couldn't Take The Nagging</h1><p>written by Chickers (penguin)</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b732b12-9743-484f-bf44-c91264a3233b.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/animatorials/im-quitting-the-magic-act/index.html</link>
             <guid isPermaLink="false">829f8c5c-0402-4aa7-b455-c5e3be6e3cee</guid>
             <pubDate>Mon, 25 Apr 2016 04:23:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Skunks Have Feelings Too]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc5b6ad5-6438-48f0-8256-6acb8b0b3a1b.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/animatorials/skunks-have-feelings-too/index.html</link>
-            <guid isPermaLink="false">be455b18-c12a-4bfc-81ca-1f9938b011c2</guid>
-            <pubDate>Mon, 25 Apr 2016 04:21:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
