@@ -4,8 +4,15 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 00:59:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 01:00:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>written by Fred Kipster (mouse)</p>]]></description>
+            <link>https://thegrid.ai/animatorials/written-by-fred-kipster-mouse/index.html</link>
+            <guid isPermaLink="false">8ba1286b-19cc-45fb-adbc-34440c455664</guid>
+            <pubDate>Mon, 25 Apr 2016 01:00:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Consider This My Two Week Notice]]></title>
             <description><![CDATA[<p>written by Alberto (eagle)</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/animatorials/written-by-mr-hugo-elephant/index.html</link>
             <guid isPermaLink="false">99b79f46-ea93-47bb-98c8-e98885415302</guid>
             <pubDate>Mon, 25 Apr 2016 00:48:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>written by Princess (cat)</p>]]></description>
-            <link>https://thegrid.ai/animatorials/written-by-princess-cat/index.html</link>
-            <guid isPermaLink="false">184751e4-0f2f-4950-986d-7a0a1375fc64</guid>
-            <pubDate>Mon, 25 Apr 2016 00:46:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
