@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Trouble (dog)
-datePublished: '2016-04-25T01:15:16.041Z'
-dateModified: '2016-04-25T01:15:04.474Z'
+datePublished: '2016-04-25T01:22:58.139Z'
+dateModified: '2016-04-25T01:15:20.537Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-25-leona-left-me-dollar12-million.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-leona-left-me-dollar12-million.md
-published: true
 url: leona-left-me-dollar12-million/index.html
 _type: Article
 
