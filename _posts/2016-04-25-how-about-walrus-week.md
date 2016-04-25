@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-04-25T00:21:34.909Z'
-dateModified: '2016-04-25T00:16:51.296Z'
+description: written by Wally (walrus)
+datePublished: '2016-04-25T00:51:15.784Z'
+dateModified: '2016-04-25T00:38:42.308Z'
 title: How about Walrus Week?
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-25-how-about-walrus-week.md
 published: true
 authors: []
@@ -23,7 +25,7 @@ _type: Article
 
 ---
 # How about Walrus Week?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13734c11-1000-40a6-8438-162a08b9b686.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a790836aeffbf65a90135efde9c86773a80c3e3.png)
 
 written by Wally (walrus)
 
