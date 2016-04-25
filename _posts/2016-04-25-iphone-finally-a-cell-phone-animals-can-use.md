@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Donald Whitetail (deer)
-datePublished: '2016-04-25T01:34:56.480Z'
-dateModified: '2016-04-25T01:34:39.603Z'
+datePublished: '2016-04-25T03:21:47.713Z'
+dateModified: '2016-04-25T01:35:05.012Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-iphone-finally-a-cell-phone-animals-can-use.md
