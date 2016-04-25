@@ -4,8 +4,15 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 01:34:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 01:36:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bulimia - One Owl's Battle]]></title>
+            <description><![CDATA[<p>written by Douglas (owl)</p>]]></description>
+            <link>https://thegrid.ai/animatorials/bulimia-one-owls-battle/index.html</link>
+            <guid isPermaLink="false">20e7be7f-4a3d-4783-b070-4a929aa29633</guid>
+            <pubDate>Mon, 25 Apr 2016 01:36:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[iPhone: Finally a Cell Phone Animals Can Use]]></title>
             <description><![CDATA[<p>written by Donald Whitetail (deer)</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/animatorials/obamas-race-speech-this-zebras-thoughts/index.html</link>
             <guid isPermaLink="false">b7434f82-9522-42a2-91a5-019c58a93cc4</guid>
             <pubDate>Mon, 25 Apr 2016 01:13:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Letter to the Berkowitzes]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/17abb676-4ca5-4268-a0bf-01e0711d94a4.jpg">]]></description>
-            <link>https://thegrid.ai/animatorials/letter-to-the-berkowitzes/index.html</link>
-            <guid isPermaLink="false">5edf92c3-be0f-4dd9-9c35-e1167c6c233b</guid>
-            <pubDate>Mon, 25 Apr 2016 01:11:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
