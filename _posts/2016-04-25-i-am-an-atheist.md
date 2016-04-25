@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Elton (critter)
-datePublished: '2016-04-25T01:22:35.073Z'
-dateModified: '2016-04-25T01:17:04.351Z'
+datePublished: '2016-04-25T03:53:08.565Z'
+dateModified: '2016-04-25T03:53:03.127Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-25-i-am-an-atheist.md
 published: true
 authors: []
@@ -22,6 +24,7 @@ url: i-am-an-atheist/index.html
 _type: Article
 
 ---
+# I'm An Athest
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8fcc3f0-2f6a-461b-bf13-8ad27ef716eb.jpg)
 
 written by Elton (critter)
