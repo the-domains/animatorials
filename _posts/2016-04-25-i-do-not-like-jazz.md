@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Chuck (cat)
-datePublished: '2016-04-25T03:57:15.474Z'
-dateModified: '2016-04-25T02:49:53.975Z'
+datePublished: '2016-04-25T03:59:53.517Z'
+dateModified: '2016-04-25T03:59:44.315Z'
 title: ''
 author:
   - name: ''
@@ -24,6 +24,7 @@ url: i-do-not-like-jazz/index.html
 _type: Article
 
 ---
+# I Do Not Like Jazz
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/edb66ef4-5d82-4c12-b9c0-15d74012abec.png)
 
 written by Chuck (cat)
