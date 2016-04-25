@@ -1,6 +1,6 @@
 name: Animatorials
 favicon: null
-layout_spectrum: 0.24437
+layout_spectrum: 0.1192
 typography_spectrum: 0.6807441806886345
 title: Animaltorials - Editorials Written By Animals
 cta:
@@ -22,8 +22,8 @@ color:
     - '#796836'
     - '#d1ae7a'
     - '#d4774b'
-  brandStrength: 0.5
-  lightness: 0.875
-  saturation: 0.9612908123526722
-  rhythmicContrast: 0.23737342609092593
+  brandStrength: 0.25
+  lightness: 0.8125
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
