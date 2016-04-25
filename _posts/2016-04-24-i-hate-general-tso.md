@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Jimmy (chicken)
-datePublished: '2016-04-25T00:06:39.264Z'
-dateModified: '2016-04-25T00:03:37.277Z'
+datePublished: '2016-04-25T03:35:56.956Z'
+dateModified: '2016-04-25T03:35:28.813Z'
 title: ''
 author:
   - name: ''
@@ -24,7 +24,7 @@ url: i-hate-general-tso/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d0bb71c85f7265f8ded922d4446f55ac31a1cad.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d4140fd-e89e-4732-b7ac-6904940ff265.jpg)
 
 written by Jimmy (chicken)
 
