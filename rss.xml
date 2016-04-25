@@ -4,8 +4,15 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 01:00:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 01:01:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I'd Like To Be Fish Of The Day]]></title>
+            <description><![CDATA[<p>written by Slitterman (fish)</p>]]></description>
+            <link>https://thegrid.ai/animatorials/id-like-to-be-fish-of-the-day/index.html</link>
+            <guid isPermaLink="false">14d4fb3a-be8b-4f89-a365-f6d312c75012</guid>
+            <pubDate>Mon, 25 Apr 2016 01:01:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>written by Fred Kipster (mouse)</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/animatorials/how-about-walrus-week/index.html</link>
             <guid isPermaLink="false">043efff7-c183-479b-9921-24937297858e</guid>
             <pubDate>Mon, 25 Apr 2016 00:51:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de57d072-b3f1-4a6f-ae4f-2a5400917ea3.png">]]></description>
-            <link>https://thegrid.ai/animatorials/written-by-mr-hugo-elephant/index.html</link>
-            <guid isPermaLink="false">99b79f46-ea93-47bb-98c8-e98885415302</guid>
-            <pubDate>Mon, 25 Apr 2016 00:48:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
