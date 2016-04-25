@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Mr. Hugo (elephant)
-datePublished: '2016-04-25T03:20:43.913Z'
-dateModified: '2016-04-25T03:20:29.142Z'
+datePublished: '2016-04-25T04:01:33.821Z'
+dateModified: '2016-04-25T03:20:51.895Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-written-by-mr-hugo-elephant.md
