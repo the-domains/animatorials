@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "I have decided to keep this journal of my day-to-day activities, perhaps for future generations (over 300 eggs erupted from Mother's abdomen just this morning!) to enjoy; or perhaps just to keep from going crazy in this glass and water hell that is my home. "
-datePublished: '2016-04-25T03:16:32.748Z'
-dateModified: '2016-04-25T03:16:06.565Z'
+datePublished: '2016-04-25T03:18:21.829Z'
+dateModified: '2016-04-25T03:17:45.413Z'
 title: ''
 author:
   - name: ''
@@ -24,8 +24,7 @@ url: i-have-decided-to-keep-this-journal-of-my-day-to-day-activit/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e80ee65-c117-4619-bbe1-ecd3df9b8a89.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51c6dee8-097c-4760-bf68-b4dccf1c7187.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/66d848a5c6273eba3f33fa001cfc4e014215c7b5.jpg)
 
 I have decided to keep this journal of my day-to-day activities, perhaps for future generations (over 300 eggs erupted from Mother's abdomen just this morning!) to enjoy; or perhaps just to keep from going crazy in this glass and water hell that is my home. 
 
