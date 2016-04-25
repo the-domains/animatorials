@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Leanord (skunk)
-datePublished: '2016-04-25T01:06:51.564Z'
-dateModified: '2016-04-25T01:06:34.479Z'
+datePublished: '2016-04-25T01:11:04.297Z'
+dateModified: '2016-04-25T01:07:57.506Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-25-skunks-have-feelings-too.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-skunks-have-feelings-too.md
-published: true
 url: skunks-have-feelings-too/index.html
 _type: Article
 
