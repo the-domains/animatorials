@@ -4,8 +4,15 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 02:56:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 02:59:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nature's Miracle is Not Really a Miracle]]></title>
+            <description><![CDATA[<p>written by Princess (cat)</p>]]></description>
+            <link>https://thegrid.ai/animatorials/written-by-princess-cat/index.html</link>
+            <guid isPermaLink="false">184751e4-0f2f-4950-986d-7a0a1375fc64</guid>
+            <pubDate>Mon, 25 Apr 2016 02:59:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Leona Left Me $12 Million]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5443179-976d-4e75-a6e6-54b928558912.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/animatorials/i-am-an-atheist/index.html</link>
             <guid isPermaLink="false">fea4fafc-135e-4dcb-8955-0d3c579b04d4</guid>
             <pubDate>Mon, 25 Apr 2016 01:22:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Did I Just Hear You Call Me Lazy?]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8add59d3-0cb9-439a-9b8b-dae2059ea750.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/animatorials/did-i-just-hear-you-call-me-lazy/index.html</link>
-            <guid isPermaLink="false">62fe7a6b-ce9c-4817-a6df-c176fa426d15</guid>
-            <pubDate>Mon, 25 Apr 2016 01:19:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
