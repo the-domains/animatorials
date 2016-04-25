@@ -5,10 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Chickers (penguin)
-datePublished: '2016-04-25T00:31:47.295Z'
-dateModified: '2016-04-25T00:31:24.666Z'
-title: ''
-author: []
+datePublished: '2016-04-25T05:03:27.710Z'
+dateModified: '2016-04-25T05:03:04.844Z'
+title: "I Just Couldn't Take The Nagging"
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-04-25-written-by-chickers-penguin.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,13 +20,13 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-written-by-chickers-penguin.md
-published: true
 url: written-by-chickers-penguin/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94a2d24c-b8d4-4ee1-86a1-84e824e6ed0c.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b732b12-9743-484f-bf44-c91264a3233b.jpg)
+
+# I Just Couldn't Take The Nagging
 
 written by Chickers (penguin)
 
