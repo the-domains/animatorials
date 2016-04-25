@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'written by Princess (cat) '
-datePublished: '2016-04-25T05:09:55.144Z'
-dateModified: '2016-04-25T05:09:42.678Z'
+description: "Nature's Miracle removes pet odors from carpets and upholstery. Itʼs a good product but letʼs be honest, what it does - not really a miracle. "
+datePublished: '2016-04-25T05:12:46.898Z'
+dateModified: '2016-04-25T05:12:39.516Z'
 title: ''
 author:
   - name: ''
@@ -25,6 +25,8 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61242f44-649c-402d-bd93-de63fbaa8e5c.jpg)
+
+# Nature's Miracle - Not Really A Miracle
 
 written by Princess (cat)
 
