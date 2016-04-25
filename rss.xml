@@ -4,8 +4,15 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 04:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 04:24:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dear Ranch Owner]]></title>
+            <description><![CDATA[<article><h1>Dear Ranch Owner</h1><p>written by Sam (bull)</p></article>]]></description>
+            <link>https://thegrid.ai/animatorials/10d0eb26-f134-490d-b34d-24447caf3b11/index.html</link>
+            <guid isPermaLink="false">10d0eb26-f134-490d-b34d-24447caf3b11</guid>
+            <pubDate>Mon, 25 Apr 2016 04:24:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Whiska-ize Me]]></title>
             <description><![CDATA[<article><h1>Whiska-ize Me</h1><p>written by Lucky (cat)</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb643d3c-903b-4813-b60d-5560d69752f0.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/animatorials/written-by-fred-kipster-mouse/index.html</link>
             <guid isPermaLink="false">8ba1286b-19cc-45fb-adbc-34440c455664</guid>
             <pubDate>Mon, 25 Apr 2016 03:54:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I am an Atheist]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8fcc3f0-2f6a-461b-bf13-8ad27ef716eb.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/animatorials/i-am-an-atheist/index.html</link>
-            <guid isPermaLink="false">fea4fafc-135e-4dcb-8955-0d3c579b04d4</guid>
-            <pubDate>Mon, 25 Apr 2016 03:53:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
