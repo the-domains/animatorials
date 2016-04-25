@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Chuck (cat)
-datePublished: '2016-04-25T01:21:48.441Z'
-dateModified: '2016-04-25T01:21:24.346Z'
+datePublished: '2016-04-25T01:23:20.442Z'
+dateModified: '2016-04-25T01:21:50.931Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-25-i-do-not-like-jazz.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-i-do-not-like-jazz.md
-published: true
 url: i-do-not-like-jazz/index.html
 _type: Article
 
