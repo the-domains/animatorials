@@ -5,10 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-25T00:49:14.778Z'
-dateModified: '2016-04-25T00:49:09.774Z'
+datePublished: '2016-04-25T00:51:57.624Z'
+dateModified: '2016-04-25T00:51:55.709Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-04-25-obamas-race-speech-this-zebras-thoughts.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,13 +20,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-obamas-race-speech-this-zebras-thoughts.md
-published: true
 url: obamas-race-speech-this-zebras-thoughts/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3612782-e4aa-43e2-ab49-94bb9e122954.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5cb7ce2eb7a899d590447d6a5803eb47fc4778c.png)
 
 written by Marc (Zebra)
 
