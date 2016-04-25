@@ -1,6 +1,6 @@
 name: Animatorials
 favicon: null
-layout_spectrum: 0.3035
+layout_spectrum: 0.24437
 typography_spectrum: 0.6807441806886345
 title: Animaltorials - Editorials Written By Animals
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.8340394378174096
-  lightness: 0.7509057088755071
+    - '#f9f9f9'
+    - '#182213'
+    - '#796836'
+    - '#d1ae7a'
+    - '#d4774b'
+  brandStrength: 0.5
+  lightness: 0.875
   saturation: 0.9612908123526722
   rhythmicContrast: 0.23737342609092593
 purpose: []
