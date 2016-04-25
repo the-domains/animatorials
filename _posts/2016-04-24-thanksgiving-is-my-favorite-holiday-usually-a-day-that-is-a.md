@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Simon (turkey)
-datePublished: '2016-04-25T04:42:45.575Z'
-dateModified: '2016-04-25T04:36:21.336Z'
+datePublished: '2016-04-25T04:48:33.549Z'
+dateModified: '2016-04-25T04:42:54.847Z'
 title: Thanks for Thanksgiving
 author: []
 sourcePath: _posts/2016-04-24-thanksgiving-is-my-favorite-holiday-usually-a-day-that-is-a.md
