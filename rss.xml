@@ -4,8 +4,15 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 03:55:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 03:57:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Whiska-ize Me]]></title>
+            <description><![CDATA[<article><h1>Whiska-ize Me</h1><p>written by Lucky (cat)</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/66369104006cf2255298a7c19982d147/passthrough.jpg?height=450&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fcb643d3c-903b-4813-b60d-5560d69752f0.jpg&width=385"></article>]]></description>
+            <link>https://thegrid.ai/animatorials/whiska-ize-me/index.html</link>
+            <guid isPermaLink="false">284aa723-951e-486f-a53f-70fb1976be58</guid>
+            <pubDate>Mon, 25 Apr 2016 03:56:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GlaxoSmithKline Saved My Life]]></title>
             <description><![CDATA[<p>written by Fred Kipster (mouse)</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/animatorials/im-quitting-the-magic-act/index.html</link>
             <guid isPermaLink="false">829f8c5c-0402-4aa7-b455-c5e3be6e3cee</guid>
             <pubDate>Mon, 25 Apr 2016 03:38:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I Hate General Tso]]></title>
-            <description><![CDATA[<p>written by Jimmy (chicken)</p>]]></description>
-            <link>https://thegrid.ai/animatorials/i-hate-general-tso/index.html</link>
-            <guid isPermaLink="false">a932004d-a34e-4b31-98cb-07cc6be9b5fd</guid>
-            <pubDate>Mon, 25 Apr 2016 03:35:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
