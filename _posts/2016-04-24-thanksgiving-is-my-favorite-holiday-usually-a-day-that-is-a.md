@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Simon (turkey)
-datePublished: '2016-04-25T00:00:35.346Z'
-dateModified: '2016-04-25T00:00:21.388Z'
-title: ''
+datePublished: '2016-04-25T04:35:47.570Z'
+dateModified: '2016-04-25T04:35:30.830Z'
+title: Thanks for Thanksgiving
 author: []
 sourcePath: _posts/2016-04-24-thanksgiving-is-my-favorite-holiday-usually-a-day-that-is-a.md
 published: true
@@ -17,12 +17,14 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: thanksgiving-is-my-favorite-holiday-usually-a-day-that-is-a/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49e4a4fe-06e1-44f4-a940-4372cb542a29.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6522aa68-36d2-4c9d-b57c-a0cb878d8b58.jpg)
+
+# Thanks for Thanksgiving
 
 written by Simon (turkey)
 
