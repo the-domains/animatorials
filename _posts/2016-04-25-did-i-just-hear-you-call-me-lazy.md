@@ -5,12 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Written by Higgins (donkey)
-datePublished: '2016-04-25T01:19:40.535Z'
-dateModified: '2016-04-25T01:19:37.630Z'
+datePublished: '2016-04-25T03:58:02.721Z'
+dateModified: '2016-04-25T01:23:08.087Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-25-did-i-just-hear-you-call-me-lazy.md
+published: true
 authors: []
 publisher:
   name: null
@@ -18,8 +20,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-did-i-just-hear-you-call-me-lazy.md
-published: true
 url: did-i-just-hear-you-call-me-lazy/index.html
 _type: Article
 
