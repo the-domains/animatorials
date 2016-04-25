@@ -4,8 +4,15 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 03:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 03:16:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Diary of a Young Seahorse]]></title>
+            <description><![CDATA[<p>I have decided to keep this journal of my day-to-day activities, perhaps for future generations (over 300 eggs erupted from Mother's abdomen just this morning!) to enjoy; or perhaps just to keep from going crazy in this glass and water hell that is my home. </p>]]></description>
+            <link>https://thegrid.ai/animatorials/i-have-decided-to-keep-this-journal-of-my-day-to-day-activit/index.html</link>
+            <guid isPermaLink="false">58e6744f-fb60-431b-a759-db4ea0af8bcd</guid>
+            <pubDate>Mon, 25 Apr 2016 03:16:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Papa Don't Preach Is Here]]></title>
             <description><![CDATA[<p>written by Papa don't Preach (horse)</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/animatorials/i-do-not-like-jazz/index.html</link>
             <guid isPermaLink="false">83f41d09-1f6a-4e81-b6c5-d1e047b16489</guid>
             <pubDate>Mon, 25 Apr 2016 02:49:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Consider This My Two Week Notice]]></title>
-            <description><![CDATA[<p>written by Alberto (eagle)</p>]]></description>
-            <link>https://thegrid.ai/animatorials/consider-this-my-two-week-notice/index.html</link>
-            <guid isPermaLink="false">83e6c8b9-b83e-41b2-a94f-e9b28a219c1f</guid>
-            <pubDate>Mon, 25 Apr 2016 01:55:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
