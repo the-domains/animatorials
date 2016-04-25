@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Slitterman (fish)
-datePublished: '2016-04-25T03:44:38.213Z'
-dateModified: '2016-04-25T03:11:06.940Z'
+datePublished: '2016-04-25T03:45:45.349Z'
+dateModified: '2016-04-25T03:45:32.526Z'
 title: ''
 author:
   - name: ''
@@ -24,6 +24,7 @@ url: id-like-to-be-fish-of-the-day/index.html
 _type: Article
 
 ---
+# I'd Like to be Fish of the Day
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/98cf0e6c2f7a20f73f51327a82cf3c97430e0c28.jpg)
 
 written by Slitterman (fish)
