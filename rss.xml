@@ -4,8 +4,22 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 00:48:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 00:52:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How about Walrus Week?]]></title>
+            <description><![CDATA[<article><h1>How about Walrus Week?</h1><p>written by Wally (walrus)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a790836aeffbf65a90135efde9c86773a80c3e3.png"></article>]]></description>
+            <link>https://thegrid.ai/animatorials/how-about-walrus-week/index.html</link>
+            <guid isPermaLink="false">043efff7-c183-479b-9921-24937297858e</guid>
+            <pubDate>Mon, 25 Apr 2016 00:51:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Obama's Race Speech: This Zebra's Thoughts]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/animatorials/obamas-race-speech-this-zebras-thoughts/index.html</link>
+            <guid isPermaLink="false">b7434f82-9522-42a2-91a5-019c58a93cc4</guid>
+            <pubDate>Mon, 25 Apr 2016 00:49:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de57d072-b3f1-4a6f-ae4f-2a5400917ea3.png">]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/animatorials/written-by-chickers-penguin/index.html</link>
             <guid isPermaLink="false">9c7ed8b1-5cbe-418f-9f41-261e6051ad49</guid>
             <pubDate>Mon, 25 Apr 2016 00:31:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How about Walrus Week?]]></title>
-            <description><![CDATA[<article><h1>How about Walrus Week?</h1><p></p></article>]]></description>
-            <link>https://thegrid.ai/animatorials/how-about-walrus-week/index.html</link>
-            <guid isPermaLink="false">043efff7-c183-479b-9921-24937297858e</guid>
-            <pubDate>Mon, 25 Apr 2016 00:21:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I Hate General Tso]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d0bb71c85f7265f8ded922d4446f55ac31a1cad.png" alt="" title="">]]></description>
-            <link>https://thegrid.ai/animatorials/i-hate-general-tso/index.html</link>
-            <guid isPermaLink="false">a932004d-a34e-4b31-98cb-07cc6be9b5fd</guid>
-            <pubDate>Mon, 25 Apr 2016 00:06:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
