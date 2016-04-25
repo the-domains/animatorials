@@ -4,8 +4,22 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 05:29:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 05:32:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bulimia - One Owl's Battle]]></title>
+            <description><![CDATA[<p>written by Douglas (owl)</p>]]></description>
+            <link>https://thegrid.ai/animatorials/bulimia-one-owls-battle/index.html</link>
+            <guid isPermaLink="false">20e7be7f-4a3d-4783-b070-4a929aa29633</guid>
+            <pubDate>Mon, 25 Apr 2016 05:32:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bulimia - One Owl's Battle]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/17abb676-4ca5-4268-a0bf-01e0711d94a4.jpg">]]></description>
+            <link>https://thegrid.ai/animatorials/letter-to-the-berkowitzes/index.html</link>
+            <guid isPermaLink="false">5edf92c3-be0f-4dd9-9c35-e1167c6c233b</guid>
+            <pubDate>Mon, 25 Apr 2016 05:30:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I Do Not Like Jazz ]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/edb66ef4-5d82-4c12-b9c0-15d74012abec.png" alt="" title="">]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/animatorials/whiska-ize-me/index.html</link>
             <guid isPermaLink="false">284aa723-951e-486f-a53f-70fb1976be58</guid>
             <pubDate>Mon, 25 Apr 2016 04:53:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thanks for Thanksgiving]]></title>
-            <description><![CDATA[<article><h1>Thanks for Thanksgiving</h1><p>written by Simon (turkey)</p></article>]]></description>
-            <link>https://thegrid.ai/animatorials/thanksgiving-is-my-favorite-holiday-usually-a-day-that-is-a/index.html</link>
-            <guid isPermaLink="false">d730a61b-2854-42ed-8ada-b80d8e62bfb0</guid>
-            <pubDate>Mon, 25 Apr 2016 04:48:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I'm Quitting the Magic Act]]></title>
-            <description><![CDATA[<article><h1>I'm Quitting the Magic Act</h1><p>written by Flankins (dove)</p></article>]]></description>
-            <link>https://thegrid.ai/animatorials/im-quitting-the-magic-act/index.html</link>
-            <guid isPermaLink="false">829f8c5c-0402-4aa7-b455-c5e3be6e3cee</guid>
-            <pubDate>Mon, 25 Apr 2016 04:23:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
