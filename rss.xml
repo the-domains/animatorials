@@ -4,8 +4,15 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 03:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 03:35:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I Hate General Tso]]></title>
+            <description><![CDATA[<p>written by Jimmy (chicken)</p>]]></description>
+            <link>https://thegrid.ai/animatorials/i-hate-general-tso/index.html</link>
+            <guid isPermaLink="false">a932004d-a34e-4b31-98cb-07cc6be9b5fd</guid>
+            <pubDate>Mon, 25 Apr 2016 03:35:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I'm Quitting the Magic Act]]></title>
             <description><![CDATA[<article><h1>I'm Quitting the Magic Act</h1><p>written by Flankins (dove)</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/animatorials/obamas-race-speech-this-zebras-thoughts/index.html</link>
             <guid isPermaLink="false">b7434f82-9522-42a2-91a5-019c58a93cc4</guid>
             <pubDate>Mon, 25 Apr 2016 03:09:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Want To Buy Some No Hunting Signs?]]></title>
-            <description><![CDATA[<p>written by Donald Whitetail (deer)</p>]]></description>
-            <link>https://thegrid.ai/animatorials/want-to-buy-some-no-hunting-signs/index.html</link>
-            <guid isPermaLink="false">cf831e23-b4d7-408a-8353-c36eefcb8f43</guid>
-            <pubDate>Mon, 25 Apr 2016 03:04:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
