@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Lucky (cat)
-datePublished: '2016-04-25T03:09:35.140Z'
-dateModified: '2016-04-25T03:01:51.663Z'
+datePublished: '2016-04-25T03:12:19.220Z'
+dateModified: '2016-04-25T03:11:44.126Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-whiska-ize-me.md
