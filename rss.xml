@@ -4,8 +4,15 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 03:50:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 03:52:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dear Ranch Owner]]></title>
+            <description><![CDATA[<article><h1>Dear Ranch Owner</h1><p>written by Sam (bull)</p></article>]]></description>
+            <link>https://thegrid.ai/animatorials/10d0eb26-f134-490d-b34d-24447caf3b11/index.html</link>
+            <guid isPermaLink="false">10d0eb26-f134-490d-b34d-24447caf3b11</guid>
+            <pubDate>Mon, 25 Apr 2016 03:52:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Papa Don't Preach Is Here]]></title>
             <description><![CDATA[<p>written by Papa Don't Preach (horse)</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/animatorials/written-by-mr-hugo-elephant/index.html</link>
             <guid isPermaLink="false">99b79f46-ea93-47bb-98c8-e98885415302</guid>
             <pubDate>Mon, 25 Apr 2016 03:20:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Diary of a Young Seahorse]]></title>
-            <description><![CDATA[<p>I have decided to keep this journal of my day-to-day activities, perhaps for future generations (over 300 eggs erupted from Mother's abdomen just this morning!) to enjoy; or perhaps just to keep from going crazy in this glass and water hell that is my home. </p>]]></description>
-            <link>https://thegrid.ai/animatorials/i-have-decided-to-keep-this-journal-of-my-day-to-day-activit/index.html</link>
-            <guid isPermaLink="false">58e6744f-fb60-431b-a759-db4ea0af8bcd</guid>
-            <pubDate>Mon, 25 Apr 2016 03:18:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
