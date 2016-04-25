@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Fred Kipster (mouse)
-datePublished: '2016-04-25T01:25:33.599Z'
-dateModified: '2016-04-25T01:25:12.160Z'
+datePublished: '2016-04-25T01:27:16.921Z'
+dateModified: '2016-04-25T01:25:42.146Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-written-by-fred-kipster-mouse.md
