@@ -4,8 +4,15 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 04:30:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 04:31:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My Job is to Save Lives]]></title>
+            <description><![CDATA[<article><h1>My Job is to Save Lives</h1><p>written by Garrett (bird)</p></article>]]></description>
+            <link>https://thegrid.ai/animatorials/written-by-garrett-bird/index.html</link>
+            <guid isPermaLink="false">13a49488-8311-4f9f-a877-ece33067368c</guid>
+            <pubDate>Mon, 25 Apr 2016 04:31:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My Boston Marathon]]></title>
             <description><![CDATA[<article><h1>My Boston Marathon</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ccf1a385cd3dc861ed1f371027e3051e4744b86.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/animatorials/leona-left-me-dollar12-million/index.html</link>
             <guid isPermaLink="false">02bd5154-5314-4522-8dd1-0cab3bdecc7a</guid>
             <pubDate>Mon, 25 Apr 2016 04:06:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Did I Just Hear You Call Me Lazy?]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8add59d3-0cb9-439a-9b8b-dae2059ea750.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/animatorials/did-i-just-hear-you-call-me-lazy/index.html</link>
-            <guid isPermaLink="false">62fe7a6b-ce9c-4817-a6df-c176fa426d15</guid>
-            <pubDate>Mon, 25 Apr 2016 03:59:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
