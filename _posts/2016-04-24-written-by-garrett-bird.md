@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-04-25T03:37:22.058Z'
-dateModified: '2016-04-25T03:36:59.712Z'
+description: written by Garrett (bird)
+datePublished: '2016-04-25T03:42:21.325Z'
+dateModified: '2016-04-25T03:40:57.340Z'
 title: My Job is to Save Lives
 author:
   - name: ''
@@ -24,10 +24,8 @@ url: written-by-garrett-bird/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c29953d18c22c221e76bb7bb65d396f0a040df1.jpg)
-
 # My Job is to Save Lives
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0db45ec67bdfc6c0b841442246deed33/passthrough.jpg?height=128&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F8c29953d18c22c221e76bb7bb65d396f0a040df1.jpg&width=167)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bf56cd3-2baf-4d87-bed7-6d1656851e17.jpg)
 
 written by Garrett (bird)
 
