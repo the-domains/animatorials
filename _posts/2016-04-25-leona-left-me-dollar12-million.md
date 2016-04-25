@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Trouble (dog)
-datePublished: '2016-04-25T02:55:59.507Z'
-dateModified: '2016-04-25T01:23:06.803Z'
+datePublished: '2016-04-25T04:06:31.854Z'
+dateModified: '2016-04-25T04:05:28.122Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-25-leona-left-me-dollar12-million.md
 published: true
 authors: []
@@ -22,9 +24,10 @@ url: leona-left-me-dollar12-million/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5443179-976d-4e75-a6e6-54b928558912.jpg)
+Leona Left Me 12 Million 
 
 written by Trouble (dog)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8c0a4acb11fdfd77a1dc11282eb48c14a2f4156.jpg)
 
 Members of the House Staff,
 
