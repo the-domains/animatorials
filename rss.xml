@@ -4,11 +4,18 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 03:57:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 03:58:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[I Do Not Like Jazz]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/edb66ef4-5d82-4c12-b9c0-15d74012abec.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/animatorials/i-do-not-like-jazz/index.html</link>
+            <guid isPermaLink="false">83f41d09-1f6a-4e81-b6c5-d1e047b16489</guid>
+            <pubDate>Mon, 25 Apr 2016 03:57:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Whiska-ize Me]]></title>
-            <description><![CDATA[<article><h1>Whiska-ize Me</h1><p>written by Lucky (cat)</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/66369104006cf2255298a7c19982d147/passthrough.jpg?height=450&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fcb643d3c-903b-4813-b60d-5560d69752f0.jpg&width=385"></article>]]></description>
+            <description><![CDATA[<article><h1>Whiska-ize Me</h1><p>written by Lucky (cat)</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb643d3c-903b-4813-b60d-5560d69752f0.jpg"></article>]]></description>
             <link>https://thegrid.ai/animatorials/whiska-ize-me/index.html</link>
             <guid isPermaLink="false">284aa723-951e-486f-a53f-70fb1976be58</guid>
             <pubDate>Mon, 25 Apr 2016 03:56:45 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/animatorials/written-by-garrett-bird/index.html</link>
             <guid isPermaLink="false">13a49488-8311-4f9f-a877-ece33067368c</guid>
             <pubDate>Mon, 25 Apr 2016 03:42:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I'm Quitting the Magic Act]]></title>
-            <description><![CDATA[<article><h1>I'm Quitting the Magic Act</h1><p>written by Flankins (dove)</p></article>]]></description>
-            <link>https://thegrid.ai/animatorials/im-quitting-the-magic-act/index.html</link>
-            <guid isPermaLink="false">829f8c5c-0402-4aa7-b455-c5e3be6e3cee</guid>
-            <pubDate>Mon, 25 Apr 2016 03:38:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
