@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Slitterman (fish)
-datePublished: '2016-04-25T01:30:10.591Z'
-dateModified: '2016-04-25T01:29:58.654Z'
+datePublished: '2016-04-25T02:51:25.197Z'
+dateModified: '2016-04-25T02:51:06.985Z'
 title: ''
 author:
   - name: ''
@@ -24,7 +24,7 @@ url: id-like-to-be-fish-of-the-day/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee7a47be-fd84-407f-93cd-26755c3dce26.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/98cf0e6c2f7a20f73f51327a82cf3c97430e0c28.jpg)
 
 written by Slitterman (fish)
 
