@@ -4,8 +4,15 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 03:42:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 03:44:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I'd l]]></title>
+            <description><![CDATA[<p>written by Slitterman (fish)</p>]]></description>
+            <link>https://thegrid.ai/animatorials/id-like-to-be-fish-of-the-day/index.html</link>
+            <guid isPermaLink="false">14d4fb3a-be8b-4f89-a365-f6d312c75012</guid>
+            <pubDate>Mon, 25 Apr 2016 03:44:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My Job is to Save Lives]]></title>
             <description><![CDATA[<article><h1>My Job is to Save Lives</h1><p>written by Garrett (bird)</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/animatorials/whiska-ize-me/index.html</link>
             <guid isPermaLink="false">284aa723-951e-486f-a53f-70fb1976be58</guid>
             <pubDate>Mon, 25 Apr 2016 03:12:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I'd l]]></title>
-            <description><![CDATA[<p>written by Slitterman (fish)</p>]]></description>
-            <link>https://thegrid.ai/animatorials/id-like-to-be-fish-of-the-day/index.html</link>
-            <guid isPermaLink="false">14d4fb3a-be8b-4f89-a365-f6d312c75012</guid>
-            <pubDate>Mon, 25 Apr 2016 03:10:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
