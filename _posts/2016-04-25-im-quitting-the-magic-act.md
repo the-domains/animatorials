@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Flankins (dove)
-datePublished: '2016-04-25T03:38:22.197Z'
-dateModified: '2016-04-25T03:26:51.734Z'
+datePublished: '2016-04-25T04:15:46.099Z'
+dateModified: '2016-04-25T04:15:08.414Z'
 title: "I'm Quitting the Magic Act"
 author: []
 sourcePath: _posts/2016-04-25-im-quitting-the-magic-act.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # I'm Quitting the Magic Act
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65d517a7-0d7c-4236-a14d-bc81d8b824cb.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/586595f64617a19972156caaa19a015bb8f7e931.jpg)
 
 written by Flankins (dove)
 
