@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "written by Papa don't Preach (horse)"
-datePublished: '2016-04-25T01:32:12.783Z'
-dateModified: '2016-04-25T01:31:56.653Z'
+datePublished: '2016-04-25T03:07:51.012Z'
+dateModified: '2016-04-25T03:07:34.159Z'
 title: ''
 author:
   - name: ''
@@ -24,7 +24,6 @@ url: papa-dont-preach-is-here/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/db4ae440c45922198b940337ca54863410944ca2.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c2bd9e0-527d-495e-827a-e2f31a7b26a5.jpg)
 
 written by Papa don't Preach (horse)
