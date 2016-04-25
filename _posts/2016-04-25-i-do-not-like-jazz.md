@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Yeah, I clawed up the speaker grills! And I'll do it again. I'll keep doing it until you get it through your thick skull that I do not like jazz. "
-datePublished: '2016-04-25T04:19:41.231Z'
-dateModified: '2016-04-25T04:10:53.267Z'
+datePublished: '2016-04-25T04:53:15.235Z'
+dateModified: '2016-04-25T04:53:04.501Z'
 title: ''
 author:
   - name: ''
@@ -24,8 +24,9 @@ url: i-do-not-like-jazz/index.html
 _type: Article
 
 ---
-# I Do Not Like Jazz
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/edb66ef4-5d82-4c12-b9c0-15d74012abec.png)
+
+# I Do Not Like Jazz
 
 written by Chuck (cat)
 
