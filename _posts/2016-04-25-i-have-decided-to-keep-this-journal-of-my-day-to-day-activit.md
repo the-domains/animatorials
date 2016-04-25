@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "I have decided to keep this journal of my day-to-day activities, perhaps for future generations (over 300 eggs erupted from Mother's abdomen just this morning!) to enjoy; or perhaps just to keep from going crazy in this glass and water hell that is my home. "
-datePublished: '2016-04-25T00:52:54.291Z'
-dateModified: '2016-04-25T00:46:41.024Z'
+datePublished: '2016-04-25T00:53:39.988Z'
+dateModified: '2016-04-25T00:53:20.486Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-25-i-have-decided-to-keep-this-journal-of-my-day-to-day-activit.md
 published: true
 authors: []
