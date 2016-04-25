@@ -4,8 +4,15 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 04:57:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 04:58:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My Boston Marathon]]></title>
+            <description><![CDATA[<article><h1>My Boston Marathon</h1><p>written by Mango (turtle)</p></article>]]></description>
+            <link>https://thegrid.ai/animatorials/my-boston-marathon/index.html</link>
+            <guid isPermaLink="false">4dd9fafc-eced-4821-a112-7b62c99d4be9</guid>
+            <pubDate>Mon, 25 Apr 2016 04:58:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My Job is to Save Lives]]></title>
             <description><![CDATA[<p>written by Garrett (bird)written by Garrett (bird)</p>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/animatorials/whiska-ize-me/index.html</link>
             <guid isPermaLink="false">284aa723-951e-486f-a53f-70fb1976be58</guid>
             <pubDate>Mon, 25 Apr 2016 04:53:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My Boston Marathon]]></title>
-            <description><![CDATA[<article><h1>My Boston Marathon</h1><p>written by Mango (turtle)</p></article>]]></description>
-            <link>https://thegrid.ai/animatorials/my-boston-marathon/index.html</link>
-            <guid isPermaLink="false">4dd9fafc-eced-4821-a112-7b62c99d4be9</guid>
-            <pubDate>Mon, 25 Apr 2016 04:52:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Thanks for Thanksgiving]]></title>
