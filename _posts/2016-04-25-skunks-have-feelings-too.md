@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: written by Leanord (skunk)
-datePublished: '2016-04-25T01:11:04.297Z'
-dateModified: '2016-04-25T01:07:57.506Z'
+datePublished: '2016-04-25T03:53:43.194Z'
+dateModified: '2016-04-25T01:11:13.463Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-skunks-have-feelings-too.md
