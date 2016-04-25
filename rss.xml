@@ -4,8 +4,15 @@
         <description><![CDATA[Editorials Written By Animals]]></description>
         <link>https://thegrid.ai/animatorials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 04:59:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 05:03:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/animatorials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I Just Couldn't Take The Nagging]]></title>
+            <description><![CDATA[<article><h1>I Just Couldn't Take The Nagging</h1><p>written by Chickers (penguin)</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b732b12-9743-484f-bf44-c91264a3233b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/animatorials/written-by-chickers-penguin/index.html</link>
+            <guid isPermaLink="false">9c7ed8b1-5cbe-418f-9f41-261e6051ad49</guid>
+            <pubDate>Mon, 25 Apr 2016 05:03:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Consider This My Two Week Notice]]></title>
             <description><![CDATA[<p>written by Alberto (eagle)</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/animatorials/skunks-have-feelings-too/index.html</link>
             <guid isPermaLink="false">be455b18-c12a-4bfc-81ca-1f9938b011c2</guid>
             <pubDate>Mon, 25 Apr 2016 04:21:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Diary of a Young Seahorse]]></title>
-            <description><![CDATA[<p>I have decided to keep this journal of my day-to-day activities, perhaps for future generations (over 300 eggs erupted from Mother's abdomen just this morning!) to enjoy; or perhaps just to keep from going crazy in this glass and water hell that is my home. </p>]]></description>
-            <link>https://thegrid.ai/animatorials/i-have-decided-to-keep-this-journal-of-my-day-to-day-activit/index.html</link>
-            <guid isPermaLink="false">58e6744f-fb60-431b-a759-db4ea0af8bcd</guid>
-            <pubDate>Mon, 25 Apr 2016 04:09:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
